@@ -1,10 +1,15 @@
-1. Who Submitted the Project in the Submit Server - Gourav Saigal (directory id: gsaigal)
-2. Group Members - Thomas Nguyen (tnguye65), Gourav Saigal (gsaigal)
-3. App Description - Allows users to roll and collect random anime characters
+This is AniClaim, a website where you can collect your favorite characters!
+We are using Jikan which is an unofficial MyAnimeList API. (https://docs.api.jikan.moe/)
 
+Users can roll for characters, sell them for currency, see the list of all characters or just the ones they have, and see where they are on the leaderboards.
 
-4. YouTube Video Demo Link - Link to a YouTube video that provides a demo of your application. This video is very important. We will not grade a project unless a video is provided. The video does not need to have audio (narration).
+Looking into how it works, there is a specific chance to get different tier characters with a set value.
+Tiers of characters
+    S: 1%
+    A: 2.3%
+    B: 4.8%
+    C: 16.4%
+    D: 75.5%
+    
+If you choose to sell a character, the value of it gets added to your wallet. You can see how much money you have compared to others on the leaderboard!
 
-
-5. Jikan API (https://docs.api.jikan.moe/)
-6. gsaigal@umd.edu
