@@ -1,4 +1,6 @@
 This is AniClaim, a website where you can collect your favorite characters!
+https://aniclaim-aolz.onrender.com/
+Contributors: Thomas Nguyen and Gourav Saigal
 We are using Jikan which is an unofficial MyAnimeList API. (https://docs.api.jikan.moe/)
 
 Users can roll for characters, sell them for currency, see the list of all characters or just the ones they have, and see where they are on the leaderboards.
